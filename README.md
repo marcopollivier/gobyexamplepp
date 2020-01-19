@@ -1,2 +1,2 @@
-# go-sandbox
-Projeto para testes e exemplos de coisas legais em Go 
+# Go by example Plus Plus
+(Go by Example)[https://gobyexample.com/]
